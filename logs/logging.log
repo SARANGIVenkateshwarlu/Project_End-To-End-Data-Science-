@@ -129,3 +129,42 @@ x==========x]
 [2026-01-31 16:15:25,900: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2026-01-31 17:13:34,822: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-31 17:13:34,826: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-31 17:13:34,831: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-01-31 17:13:34,833: INFO: common: created directory at: artifacts]
+[2026-01-31 17:13:34,835: INFO: common: created directory at: artifacts/data_transformation]
+[2026-01-31 17:13:34,935: INFO: 741865018: Splited data into training and test sets]
+[2026-01-31 17:13:34,937: INFO: 741865018: (1199, 12)]
+[2026-01-31 17:13:34,938: INFO: 741865018: (400, 12)]
+[2026-01-31 21:35:18,115: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2026-01-31 21:35:18,150: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-31 21:35:18,158: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-31 21:35:18,167: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-01-31 21:35:18,167: INFO: common: created directory at: artifacts]
+[2026-01-31 21:35:18,168: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-01-31 21:35:18,168: INFO: data_ingestion: File already exists]
+[2026-01-31 21:35:18,206: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2026-01-31 21:35:18,206: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2026-01-31 21:35:18,212: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-31 21:35:18,214: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-31 21:35:18,216: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-01-31 21:35:18,216: INFO: common: created directory at: artifacts]
+[2026-01-31 21:35:18,217: INFO: common: created directory at: artifacts/data_validation]
+[2026-01-31 21:35:18,239: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2026-01-31 21:35:18,240: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-01-31 21:35:18,253: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-01-31 21:35:18,253: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-01-31 21:35:18,256: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-01-31 21:35:18,257: INFO: common: created directory at: artifacts]
+[2026-01-31 21:35:18,257: INFO: common: created directory at: artifacts/data_transformation]
+[2026-01-31 21:35:18,299: INFO: data_transformation: Splited data into training and test sets]
+[2026-01-31 21:35:18,299: INFO: data_transformation: (1199, 12)]
+[2026-01-31 21:35:18,299: INFO: data_transformation: (400, 12)]
+[2026-01-31 21:35:18,300: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
