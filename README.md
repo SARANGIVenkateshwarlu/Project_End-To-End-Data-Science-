@@ -17,4 +17,16 @@
 5. Update the configuration manager in src config
 6. Update the components
 7. Update the pipeline 
+
 8. Update the main.py
+---
+
+
+<p align="center">
+  <strong> Project Workflow </strong>
+</p>
+
+<p align="center">
+  <img src="Assert/Orchiteture.png" alt="Workflow Diagram" width="600">
+</p>
+
