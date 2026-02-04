@@ -21,8 +21,9 @@
 
 ## Implimentation 
 
-1. Docker deploy 
+1. CI/CD
 2. ASW EC2 server
+3. Docker deploy
 
 --- 
 
@@ -88,3 +89,4 @@
 </p>
 
 --- 
+
