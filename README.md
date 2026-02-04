@@ -17,8 +17,13 @@
 5. Update the configuration manager in src config
 6. Update the components
 7. Update the pipeline 
-
 8. Update the main.py
+
+## Implimentation 
+
+1. Docker deploy 
+2. ASW EC2 server
+
 ---
 
 
@@ -31,3 +36,47 @@
 </p>
 
 
+<p align="center">
+  <strong> Project Pipeline </strong>
+</p>
+
+<p align="center">
+  <img src="Assert/exicute_final_1.png" alt="Code Run" width="600">
+</p>
+
+
+<p align="center">
+  <strong> Project Pipeline </strong>
+</p>
+
+<p align="center">
+  <img src="Assert/exicute_final_4.png" alt="Flask App Run and Inputs Data" width="600">
+</p>
+
+
+<p align="center">
+  <strong> Project Pipeline </strong>
+</p>
+
+<p align="center">
+  <img src="Assert/exicute_final_5.png" alt="Flask App Results" width="600">
+</p>
+
+
+<p align="center">
+  <strong> Project Pipeline </strong>
+</p>
+
+<p align="center">
+  <img src="Assert/exicute_final_2.png" alt="Dagshub : Remote Reposity" width="600">
+</p>
+
+
+
+<p align="center">
+  <strong> Project Pipeline </strong>
+</p>
+
+<p align="center">
+  <img src="Assert/exicute_final_3.png" alt="MLflow : Experiments Tracking" width="600">
+</p>
